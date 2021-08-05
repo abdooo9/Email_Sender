@@ -13,7 +13,7 @@ transporter.sendMail({
   to: "", // list of receivers
   subject: "", // Subject line
   text: "", // plain text body
-  // html: , // html body
+  html: "", // html body
 }).then(info => {
   console.log({ info });
 }).catch(console.error);
