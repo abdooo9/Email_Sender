@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://github.com/abdooo9/Email_Sender"><img src="https://cdn.discordapp.com/attachments/803954103419273216/827591799206838342/email.png" width="120" alt="MySQL-database" /></a>
+		<a href="https://github.com/abdooo9/Email_Sender"><img src="https://cdn.discordapp.com/attachments/803954103419273216/827591799206838342/email.png" width="120"/></a>
 	</p>
 </div>
 
