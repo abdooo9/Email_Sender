@@ -19,7 +19,7 @@
 
 ## Installation
 
-<ol>
+<ul>
 
 <li> clone it </li>
 
@@ -33,17 +33,17 @@ git clone https://github.com/abdooo9/Email_Sender.git
 
 <li>Copy your secure key from your Google Account</li>
 
-<ol>
+<ul>
     <li>Enable 2-Step Verification (From Signing in to Google window)</li>
     <li>Create App key (From Signing in to Google window)</li>
     <li>From Select app menu choose other</li>
     <li>Type your node.js app name</li>
     <li>Click on Generate Button</li>
-</ol> 
+</ul> 
 <li>Type your email in .env file</li>
 <li>Type your secure key in .env file</li>
 <li>Run your app!</li>
-</ol> 
+</ul> 
 
 
 #### Contributing
